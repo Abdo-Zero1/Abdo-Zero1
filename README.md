@@ -71,6 +71,24 @@
 
 ---
 
+## 🧾 Certificates & Achievements  
+
+- 🥇 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+- 🧠 **.NET Developer Bootcamp** – Deep dive into ASP.NET Core & Entity Framework  
+- 🏆 **Hackathon Winner 2024** – Built a scalable task management API  
+- 🎯 **100+ Commits in 2024** – Continuous learning & contribution  
+
+---
+
+## 🔭 Currently Working On  
+
+- 🚧 Building a **Microservices-based architecture** with .NET 8 & RabbitMQ  
+- 🧩 Exploring **CQRS + MediatR pattern** for enterprise-level systems  
+- 🧠 Learning **Docker Compose & container orchestration**  
+- 🌐 Developing a **Portfolio API** to serve personal website content dynamically  
+
+---
+
 ## ⚙️ GitHub Stats  
 
 <div align="center">
