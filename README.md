@@ -1,9 +1,15 @@
 # Hi there! 👋 I'm Abdo El-Sayed  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdo-el-sayed-0aaa53260/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdo-el-sayed" height="30" width="30" /></a>&nbsp;
-<a href="mailto:abdosayed.dev@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="abdosayed.dev@gmail.com" height="30" width="30" /></a>&nbsp;
-<a href="https://t.me/@A_el0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/abdo-el-sayed-0aaa53260/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdo-el-sayed" height="30" width="30" />
+</a>&nbsp;
+<a href="mailto:abdo.com.a777@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="abdo.com.a777@gmail.com" height="30" width="30" />
+</a>&nbsp;
+<a href="https://t.me/A_el0" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="30" />
+</a>
 </p>
 
 ---
